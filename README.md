@@ -1,7 +1,6 @@
 <!-- INTRO -->
-
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Paytone+One&size=45&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!++I%E2%80%99m+April%2C" alt="April Sanders" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Paytone+One&size=45&duration=1&pause=10000000000&color=FFFFFF&center=true&vCenter=true&width=435&height=70&lines=Hi!++I%E2%80%99m+April%2C" alt="April Sanders" /> 
 </p>
 
 <p align="center">
@@ -10,8 +9,6 @@
 
 <!-- TECH -->
 <h2> ⚙️ Technologies & Tools </h2>
-
-
 <p>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="28" />&nbsp;
